@@ -1,0 +1,90 @@
+{
+  border: 1px solid black;
+}
+
+.top{
+  background-color: brown;
+  height: 15px;
+
+}
+header{
+  text-align: center;
+  border-bottom: 0.5px solid gray;
+  padding-bottom: 15px;
+
+}
+h1{
+  font-family: 'Slabo 27px', serif;
+
+    color: #222;
+}
+h2{
+color: #444;
+}
+h1:hover{
+  color: #99CCFF;
+}
+.web:hover{
+  color: #99CCFF;
+}
+li{
+  transform: rotate(5deg);
+  margin-top: 50px;
+  display: inline-block;
+  color: #222;
+  background-color: lightgray;
+  font-family: 'Indie Flower', cursive;
+  font-size: 30px;
+  border: 2px solid gray;
+
+}
+li:hover{
+  color: #99CCFF;
+  margin: 1%;
+}
+section{
+  background-color: rgba(0,105,25,0.3);
+
+
+
+}
+.nyron{
+  border-radius: 50%;
+  max-width: 400px;
+  max-height: 400px;
+  padding-top: 35px;
+  padding-bottom: 35px;
+
+}
+.nyron:hover{
+  padding-top: 70px;
+  opacity: 0.5;
+}
+.intro{
+  font-size: 40px;
+}
+p{
+  font-size: 15px;
+  text-shadow: 1px 1px brown;
+}
+.button{
+
+padding: 30px 15px 30px 15px;
+  margin-bottom: 3px;
+  border-radius: 50%;
+  font-size: 20px;
+}
+.button:hover{
+  background-color: white;
+  color: brown;
+  margin: 1%;
+
+}
+.email{
+  width: 20px;
+  height: 20px;
+}
+.e{
+  width: 20px;
+  height: 20px;
+}
