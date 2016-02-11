@@ -50,14 +50,14 @@ height: 85vh;
 
 
 }
-.nyron{
-  border-radius: 50%;
-  max-width: 400px;
-  max-height: 400px;
-  padding-top: 35px;
-  padding-bottom: 35px;
+.nyron {
+    border-radius: 50%;
+    max-width: 300px;
+    max-height: 300px;
+    border: 2px solid brown;
+    margin-top: 50px;}
 
-}
+    
 .nyron:hover{
   padding-top: 70px;
   opacity: 0.5;
@@ -67,7 +67,7 @@ height: 85vh;
 }
 p{
   font-size: 15px;
-  text-shadow: 1px 1px brown;
+  padding-top: 20px;
 }
 .button{
 
@@ -90,3 +90,5 @@ padding: 30px 15px 30px 15px;
   width: 20px;
   height: 20px;
 }
+
+.btn-primary {margin: 20px 0;}
